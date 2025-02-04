@@ -1,0 +1,26 @@
+{
+  "calendar_manager": {
+    "ic": "ysiyf-3yaaa-aaaap-qpncq-cai"
+  },
+  "desuite_backend": {
+    "ic": "y3ltz-nqaaa-aaaap-qpnda-cai"
+  },
+  "desuite_frontend": {
+    "ic": "y4kvn-aiaaa-aaaap-qpndq-cai"
+  },
+  "expense_tracker": {
+    "ic": "zrerd-paaaa-aaaap-qpnea-cai"
+  },
+  "file_management": {
+    "ic": "zwfxx-cyaaa-aaaap-qpneq-cai"
+  },
+  "notes": {
+    "ic": "z7g4l-uqaaa-aaaap-qpnfa-cai"
+  },
+  "photo_gallery": {
+    "ic": "zyh27-ziaaa-aaaap-qpnfq-cai"
+  },
+  "task_manager": {
+    "ic": "znals-yaaaa-aaaap-qpnga-cai"
+  }
+}
