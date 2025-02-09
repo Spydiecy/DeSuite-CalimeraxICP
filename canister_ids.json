@@ -1,26 +1,29 @@
 {
+  "__Candid_UI": {
+    "local": "dfdal-2uaaa-aaaaa-qaama-cai"
+  },
   "calendar_manager": {
-    "ic": "ysiyf-3yaaa-aaaap-qpncq-cai"
+    "local": "c5kvi-uuaaa-aaaaa-qaaia-cai"
   },
   "desuite_backend": {
-    "ic": "y3ltz-nqaaa-aaaap-qpnda-cai"
+    "local": "c2lt4-zmaaa-aaaaa-qaaiq-cai"
   },
   "desuite_frontend": {
-    "ic": "y4kvn-aiaaa-aaaap-qpndq-cai"
+    "local": "ctiya-peaaa-aaaaa-qaaja-cai"
   },
   "expense_tracker": {
-    "ic": "zrerd-paaaa-aaaap-qpnea-cai"
+    "local": "cuj6u-c4aaa-aaaaa-qaajq-cai"
   },
   "file_management": {
-    "ic": "zwfxx-cyaaa-aaaap-qpneq-cai"
+    "local": "cbopz-duaaa-aaaaa-qaaka-cai"
   },
   "notes": {
-    "ic": "z7g4l-uqaaa-aaaap-qpnfa-cai"
+    "local": "cgpjn-omaaa-aaaaa-qaakq-cai"
   },
   "photo_gallery": {
-    "ic": "zyh27-ziaaa-aaaap-qpnfq-cai"
+    "local": "cpmcr-yeaaa-aaaaa-qaala-cai"
   },
   "task_manager": {
-    "ic": "znals-yaaaa-aaaap-qpnga-cai"
+    "local": "cinef-v4aaa-aaaaa-qaalq-cai"
   }
 }

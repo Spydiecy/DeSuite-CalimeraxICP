@@ -16,6 +16,7 @@
     "src/desuite_frontend"
   ],
   "dependencies": {
+    "@calimero-network/calimero-client": "^1.1.0",
     "@tiptap/extension-color": "^2.10.0",
     "@tiptap/extension-text-align": "^2.10.0",
     "@tiptap/pm": "^2.10.0",
